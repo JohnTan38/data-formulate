@@ -1,0 +1,23 @@
+jupyter
+pandas
+docker
+namedlist
+matplotlib
+flask
+openai
+azure-identity
+azure-kusto-data
+azure-keyvault-secrets
+azure-kusto-data
+azure-storage-blob
+python-dotenv
+vega_datasets
+litellm
+duckdb
+boto3
+pyodbc
+#-e . #also need to install data formulator itself
+flask-cors
+gunicorn
+psycopg2-binary
+psycopg2

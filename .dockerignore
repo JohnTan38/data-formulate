@@ -1,0 +1,16 @@
+﻿node_modules
+.vscode/
+.venv/
+__pycache__
+*.pyc
+*.log
+.env
+.git
+.gitignore
+!Dockerfile
+!py-src/
+!Scripts/
+!Scripts/src/
+!Scripts/public/
+!Scripts/package.json
+!Scripts/requirements.txt
